@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.03f1309a.css",
+    "main.js": "./static/js/main.92c1cbe7.js",
+    "static/js/787.a61852ae.chunk.js": "./static/js/787.a61852ae.chunk.js",
+    "static/media/paulista.png": "./static/media/paulista.a9cdfcfc82c1835ae571.png",
+    "static/media/rb.png": "./static/media/rb.fe864cb3bb0a9b589551.png",
+    "static/media/lbt.png": "./static/media/lbt.29cf734bcdc1392d3bdc.png",
+    "static/media/rei1.png": "./static/media/rei1.f375600b1da6c3ca4c6c.png",
+    "static/media/capa2.png": "./static/media/capa2.d85aec006a78df2b447d.png",
+    "static/media/spfc1.png": "./static/media/spfc1.b888ae4941cbd01e0d22.png",
+    "static/media/adidas.png": "./static/media/adidas.059b28714508df47d07e.png",
+    "static/media/volvo.png": "./static/media/volvo.5f300b466ebfbbb9704f.png",
+    "static/media/roku.png": "./static/media/roku.02703416898cb88019dd.png",
+    "static/media/revicons.eot": "./static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "./static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/konami.png": "./static/media/konami.b574f3606f67e9f1bbd7.png",
+    "static/media/revicons.woff": "./static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.03f1309a.css.map": "./static/css/main.03f1309a.css.map",
+    "main.92c1cbe7.js.map": "./static/js/main.92c1cbe7.js.map",
+    "787.a61852ae.chunk.js.map": "./static/js/787.a61852ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f1309a.css",
+    "static/js/main.92c1cbe7.js"
+  ]
+}
